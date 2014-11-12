@@ -1,0 +1,698 @@
+bcr_sample_barcode,sample_type
+TCGA-AB-2802-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2802-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2802-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2802-03D,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2802-11A,Solid Tissue Normal
+TCGA-AB-2802-11B,Solid Tissue Normal
+TCGA-AB-2802-11C,Solid Tissue Normal
+TCGA-AB-2802-11D,Solid Tissue Normal
+TCGA-AB-2803-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2803-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2803-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2803-11A,Solid Tissue Normal
+TCGA-AB-2803-11B,Solid Tissue Normal
+TCGA-AB-2803-11C,Solid Tissue Normal
+TCGA-AB-2804-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2804-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2804-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2804-11A,Solid Tissue Normal
+TCGA-AB-2804-11B,Solid Tissue Normal
+TCGA-AB-2804-11C,Solid Tissue Normal
+TCGA-AB-2805-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2805-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2805-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2805-11A,Solid Tissue Normal
+TCGA-AB-2805-11B,Solid Tissue Normal
+TCGA-AB-2805-11C,Solid Tissue Normal
+TCGA-AB-2806-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2806-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2806-11A,Solid Tissue Normal
+TCGA-AB-2806-11B,Solid Tissue Normal
+TCGA-AB-2807-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2807-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2807-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2807-03D,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2807-11A,Solid Tissue Normal
+TCGA-AB-2807-11B,Solid Tissue Normal
+TCGA-AB-2807-11C,Solid Tissue Normal
+TCGA-AB-2807-11D,Solid Tissue Normal
+TCGA-AB-2808-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2808-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2808-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2808-03D,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2808-11A,Solid Tissue Normal
+TCGA-AB-2808-11B,Solid Tissue Normal
+TCGA-AB-2808-11C,Solid Tissue Normal
+TCGA-AB-2808-11D,Solid Tissue Normal
+TCGA-AB-2809-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2809-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2809-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2809-03D,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2809-11A,Solid Tissue Normal
+TCGA-AB-2809-11B,Solid Tissue Normal
+TCGA-AB-2809-11C,Solid Tissue Normal
+TCGA-AB-2809-11D,Solid Tissue Normal
+TCGA-AB-2810-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2810-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2810-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2810-11A,Solid Tissue Normal
+TCGA-AB-2810-11B,Solid Tissue Normal
+TCGA-AB-2810-11C,Solid Tissue Normal
+TCGA-AB-2811-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2811-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2811-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2811-11A,Solid Tissue Normal
+TCGA-AB-2811-11B,Solid Tissue Normal
+TCGA-AB-2811-11C,Solid Tissue Normal
+TCGA-AB-2812-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2812-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2812-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2812-11A,Solid Tissue Normal
+TCGA-AB-2812-11B,Solid Tissue Normal
+TCGA-AB-2812-11C,Solid Tissue Normal
+TCGA-AB-2813-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2813-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2813-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2813-11A,Solid Tissue Normal
+TCGA-AB-2813-11B,Solid Tissue Normal
+TCGA-AB-2813-11C,Solid Tissue Normal
+TCGA-AB-2814-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2814-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2814-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2814-03D,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2814-11A,Solid Tissue Normal
+TCGA-AB-2814-11B,Solid Tissue Normal
+TCGA-AB-2814-11C,Solid Tissue Normal
+TCGA-AB-2814-11D,Solid Tissue Normal
+TCGA-AB-2815-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2815-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2815-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2815-11A,Solid Tissue Normal
+TCGA-AB-2815-11B,Solid Tissue Normal
+TCGA-AB-2815-11C,Solid Tissue Normal
+TCGA-AB-2816-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2816-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2816-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2816-11A,Solid Tissue Normal
+TCGA-AB-2816-11B,Solid Tissue Normal
+TCGA-AB-2816-11C,Solid Tissue Normal
+TCGA-AB-2817-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2817-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2817-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2817-11A,Solid Tissue Normal
+TCGA-AB-2817-11B,Solid Tissue Normal
+TCGA-AB-2817-11C,Solid Tissue Normal
+TCGA-AB-2818-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2818-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2818-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2818-11A,Solid Tissue Normal
+TCGA-AB-2818-11B,Solid Tissue Normal
+TCGA-AB-2818-11C,Solid Tissue Normal
+TCGA-AB-2819-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2819-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2819-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2819-11A,Solid Tissue Normal
+TCGA-AB-2819-11B,Solid Tissue Normal
+TCGA-AB-2819-11C,Solid Tissue Normal
+TCGA-AB-2820-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2820-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2820-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2820-11A,Solid Tissue Normal
+TCGA-AB-2820-11B,Solid Tissue Normal
+TCGA-AB-2820-11C,Solid Tissue Normal
+TCGA-AB-2821-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2821-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2821-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2821-11A,Solid Tissue Normal
+TCGA-AB-2821-11B,Solid Tissue Normal
+TCGA-AB-2821-11C,Solid Tissue Normal
+TCGA-AB-2822-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2822-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2822-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2822-03D,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2822-11A,Solid Tissue Normal
+TCGA-AB-2822-11B,Solid Tissue Normal
+TCGA-AB-2822-11D,Solid Tissue Normal
+TCGA-AB-2823-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2823-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2823-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2823-11A,Solid Tissue Normal
+TCGA-AB-2823-11B,Solid Tissue Normal
+TCGA-AB-2823-11C,Solid Tissue Normal
+TCGA-AB-2824-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2824-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2824-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2824-11A,Solid Tissue Normal
+TCGA-AB-2824-11B,Solid Tissue Normal
+TCGA-AB-2824-11C,Solid Tissue Normal
+TCGA-AB-2825-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2825-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2825-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2825-03D,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2825-11A,Solid Tissue Normal
+TCGA-AB-2825-11B,Solid Tissue Normal
+TCGA-AB-2825-11C,Solid Tissue Normal
+TCGA-AB-2825-11D,Solid Tissue Normal
+TCGA-AB-2826-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2826-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2826-11A,Solid Tissue Normal
+TCGA-AB-2826-11B,Solid Tissue Normal
+TCGA-AB-2826-11C,Solid Tissue Normal
+TCGA-AB-2827-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2827-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2827-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2827-11A,Solid Tissue Normal
+TCGA-AB-2827-11B,Solid Tissue Normal
+TCGA-AB-2827-11C,Solid Tissue Normal
+TCGA-AB-2828-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2828-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2828-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2828-11A,Solid Tissue Normal
+TCGA-AB-2828-11B,Solid Tissue Normal
+TCGA-AB-2828-11C,Solid Tissue Normal
+TCGA-AB-2829-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2829-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2829-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2829-11A,Solid Tissue Normal
+TCGA-AB-2829-11B,Solid Tissue Normal
+TCGA-AB-2829-11C,Solid Tissue Normal
+TCGA-AB-2830-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2830-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2830-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2830-11A,Solid Tissue Normal
+TCGA-AB-2830-11B,Solid Tissue Normal
+TCGA-AB-2830-11C,Solid Tissue Normal
+TCGA-AB-2831-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2831-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2831-11A,Solid Tissue Normal
+TCGA-AB-2831-11B,Solid Tissue Normal
+TCGA-AB-2831-11C,Solid Tissue Normal
+TCGA-AB-2832-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2832-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2832-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2832-11A,Solid Tissue Normal
+TCGA-AB-2832-11B,Solid Tissue Normal
+TCGA-AB-2832-11C,Solid Tissue Normal
+TCGA-AB-2833-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2833-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2833-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2833-11A,Solid Tissue Normal
+TCGA-AB-2833-11B,Solid Tissue Normal
+TCGA-AB-2833-11C,Solid Tissue Normal
+TCGA-AB-2834-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2834-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2834-11A,Solid Tissue Normal
+TCGA-AB-2834-11B,Solid Tissue Normal
+TCGA-AB-2834-11C,Solid Tissue Normal
+TCGA-AB-2835-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2835-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2835-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2835-11A,Solid Tissue Normal
+TCGA-AB-2835-11B,Solid Tissue Normal
+TCGA-AB-2835-11C,Solid Tissue Normal
+TCGA-AB-2836-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2836-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2836-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2836-11A,Solid Tissue Normal
+TCGA-AB-2836-11B,Solid Tissue Normal
+TCGA-AB-2836-11C,Solid Tissue Normal
+TCGA-AB-2837-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2837-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2837-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2837-11A,Solid Tissue Normal
+TCGA-AB-2837-11B,Solid Tissue Normal
+TCGA-AB-2837-11C,Solid Tissue Normal
+TCGA-AB-2838-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2838-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2838-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2838-11A,Solid Tissue Normal
+TCGA-AB-2838-11B,Solid Tissue Normal
+TCGA-AB-2838-11C,Solid Tissue Normal
+TCGA-AB-2839-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2839-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2839-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2839-11A,Solid Tissue Normal
+TCGA-AB-2839-11B,Solid Tissue Normal
+TCGA-AB-2839-11C,Solid Tissue Normal
+TCGA-AB-2840-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2840-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2840-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2840-03D,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2840-11A,Solid Tissue Normal
+TCGA-AB-2840-11B,Solid Tissue Normal
+TCGA-AB-2840-11C,Solid Tissue Normal
+TCGA-AB-2840-11D,Solid Tissue Normal
+TCGA-AB-2841-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2841-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2841-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2841-11A,Solid Tissue Normal
+TCGA-AB-2841-11B,Solid Tissue Normal
+TCGA-AB-2841-11C,Solid Tissue Normal
+TCGA-AB-2842-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2842-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2842-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2842-11A,Solid Tissue Normal
+TCGA-AB-2842-11B,Solid Tissue Normal
+TCGA-AB-2842-11C,Solid Tissue Normal
+TCGA-AB-2843-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2843-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2843-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2843-03D,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2843-11A,Solid Tissue Normal
+TCGA-AB-2843-11B,Solid Tissue Normal
+TCGA-AB-2843-11C,Solid Tissue Normal
+TCGA-AB-2843-11D,Solid Tissue Normal
+TCGA-AB-2844-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2844-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2844-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2844-11A,Solid Tissue Normal
+TCGA-AB-2844-11B,Solid Tissue Normal
+TCGA-AB-2844-11C,Solid Tissue Normal
+TCGA-AB-2845-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2845-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2845-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2845-03D,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2845-11A,Solid Tissue Normal
+TCGA-AB-2845-11B,Solid Tissue Normal
+TCGA-AB-2845-11D,Solid Tissue Normal
+TCGA-AB-2846-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2846-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2846-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2846-11A,Solid Tissue Normal
+TCGA-AB-2846-11B,Solid Tissue Normal
+TCGA-AB-2846-11D,Solid Tissue Normal
+TCGA-AB-2847-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2847-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2847-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2847-03D,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2847-11A,Solid Tissue Normal
+TCGA-AB-2847-11B,Solid Tissue Normal
+TCGA-AB-2847-11C,Solid Tissue Normal
+TCGA-AB-2847-11D,Solid Tissue Normal
+TCGA-AB-2848-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2848-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2848-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2848-11A,Solid Tissue Normal
+TCGA-AB-2848-11B,Solid Tissue Normal
+TCGA-AB-2848-11C,Solid Tissue Normal
+TCGA-AB-2849-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2849-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2849-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2849-11A,Solid Tissue Normal
+TCGA-AB-2849-11B,Solid Tissue Normal
+TCGA-AB-2849-11C,Solid Tissue Normal
+TCGA-AB-2850-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2850-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2850-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2850-11A,Solid Tissue Normal
+TCGA-AB-2850-11B,Solid Tissue Normal
+TCGA-AB-2850-11C,Solid Tissue Normal
+TCGA-AB-2851-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2851-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2851-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2851-11A,Solid Tissue Normal
+TCGA-AB-2851-11B,Solid Tissue Normal
+TCGA-AB-2851-11C,Solid Tissue Normal
+TCGA-AB-2853-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2853-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2853-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2853-03D,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2853-11A,Solid Tissue Normal
+TCGA-AB-2853-11B,Solid Tissue Normal
+TCGA-AB-2853-11D,Solid Tissue Normal
+TCGA-AB-2854-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2854-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2854-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2854-11A,Solid Tissue Normal
+TCGA-AB-2854-11B,Solid Tissue Normal
+TCGA-AB-2854-11C,Solid Tissue Normal
+TCGA-AB-2855-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2855-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2855-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2855-11A,Solid Tissue Normal
+TCGA-AB-2855-11B,Solid Tissue Normal
+TCGA-AB-2856-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2856-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2856-11A,Solid Tissue Normal
+TCGA-AB-2856-11B,Solid Tissue Normal
+TCGA-AB-2856-11C,Solid Tissue Normal
+TCGA-AB-2857-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2857-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2857-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2857-11A,Solid Tissue Normal
+TCGA-AB-2857-11B,Solid Tissue Normal
+TCGA-AB-2857-11C,Solid Tissue Normal
+TCGA-AB-2858-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2858-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2858-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2858-03D,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2858-11A,Solid Tissue Normal
+TCGA-AB-2858-11B,Solid Tissue Normal
+TCGA-AB-2858-11C,Solid Tissue Normal
+TCGA-AB-2858-12A,Buccal Cell Normal
+TCGA-AB-2859-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2859-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2859-11A,Solid Tissue Normal
+TCGA-AB-2859-11B,Solid Tissue Normal
+TCGA-AB-2859-11C,Solid Tissue Normal
+TCGA-AB-2860-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2860-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2860-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2860-11A,Solid Tissue Normal
+TCGA-AB-2860-11B,Solid Tissue Normal
+TCGA-AB-2860-11C,Solid Tissue Normal
+TCGA-AB-2861-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2861-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2861-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2861-11A,Solid Tissue Normal
+TCGA-AB-2861-11B,Solid Tissue Normal
+TCGA-AB-2861-11C,Solid Tissue Normal
+TCGA-AB-2862-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2862-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2862-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2862-11A,Solid Tissue Normal
+TCGA-AB-2862-11B,Solid Tissue Normal
+TCGA-AB-2862-11C,Solid Tissue Normal
+TCGA-AB-2863-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2863-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2863-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2863-03D,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2863-11A,Solid Tissue Normal
+TCGA-AB-2863-11B,Solid Tissue Normal
+TCGA-AB-2863-11D,Solid Tissue Normal
+TCGA-AB-2864-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2864-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2864-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2864-03D,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2864-11A,Solid Tissue Normal
+TCGA-AB-2864-11B,Solid Tissue Normal
+TCGA-AB-2864-11C,Solid Tissue Normal
+TCGA-AB-2864-11D,Solid Tissue Normal
+TCGA-AB-2865-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2865-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2865-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2865-11A,Solid Tissue Normal
+TCGA-AB-2865-11B,Solid Tissue Normal
+TCGA-AB-2865-11C,Solid Tissue Normal
+TCGA-AB-2866-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2866-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2866-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2866-11A,Solid Tissue Normal
+TCGA-AB-2866-11B,Solid Tissue Normal
+TCGA-AB-2866-11C,Solid Tissue Normal
+TCGA-AB-2867-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2867-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2867-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2867-11A,Solid Tissue Normal
+TCGA-AB-2867-11B,Solid Tissue Normal
+TCGA-AB-2867-11C,Solid Tissue Normal
+TCGA-AB-2868-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2868-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2868-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2868-11A,Solid Tissue Normal
+TCGA-AB-2868-11B,Solid Tissue Normal
+TCGA-AB-2868-11C,Solid Tissue Normal
+TCGA-AB-2869-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2869-11A,Solid Tissue Normal
+TCGA-AB-2870-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2870-11A,Solid Tissue Normal
+TCGA-AB-2871-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2871-11A,Solid Tissue Normal
+TCGA-AB-2872-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2872-11A,Solid Tissue Normal
+TCGA-AB-2873-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2873-11A,Solid Tissue Normal
+TCGA-AB-2874-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2874-11A,Solid Tissue Normal
+TCGA-AB-2875-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2875-11A,Solid Tissue Normal
+TCGA-AB-2876-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2876-11A,Solid Tissue Normal
+TCGA-AB-2877-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2877-11A,Solid Tissue Normal
+TCGA-AB-2878-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2878-11A,Solid Tissue Normal
+TCGA-AB-2879-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2879-11A,Solid Tissue Normal
+TCGA-AB-2880-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2880-11A,Solid Tissue Normal
+TCGA-AB-2881-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2881-11A,Solid Tissue Normal
+TCGA-AB-2882-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2882-11A,Solid Tissue Normal
+TCGA-AB-2883-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2883-11A,Solid Tissue Normal
+TCGA-AB-2884-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2884-11A,Solid Tissue Normal
+TCGA-AB-2885-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2885-11A,Solid Tissue Normal
+TCGA-AB-2886-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2886-11A,Solid Tissue Normal
+TCGA-AB-2887-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2887-11A,Solid Tissue Normal
+TCGA-AB-2888-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2888-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2888-11A,Solid Tissue Normal
+TCGA-AB-2889-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2889-11A,Solid Tissue Normal
+TCGA-AB-2890-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2890-11A,Solid Tissue Normal
+TCGA-AB-2891-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2891-11A,Solid Tissue Normal
+TCGA-AB-2892-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2892-11A,Solid Tissue Normal
+TCGA-AB-2893-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2893-11A,Solid Tissue Normal
+TCGA-AB-2894-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2894-11A,Solid Tissue Normal
+TCGA-AB-2895-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2895-11A,Solid Tissue Normal
+TCGA-AB-2896-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2896-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2896-11A,Solid Tissue Normal
+TCGA-AB-2897-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2897-11A,Solid Tissue Normal
+TCGA-AB-2898-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2898-11A,Solid Tissue Normal
+TCGA-AB-2899-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2899-11A,Solid Tissue Normal
+TCGA-AB-2900-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2900-11A,Solid Tissue Normal
+TCGA-AB-2901-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2901-11A,Solid Tissue Normal
+TCGA-AB-2903-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2903-11A,Solid Tissue Normal
+TCGA-AB-2904-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2904-11A,Solid Tissue Normal
+TCGA-AB-2905-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2905-11A,Solid Tissue Normal
+TCGA-AB-2906-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2906-11A,Solid Tissue Normal
+TCGA-AB-2907-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2907-11A,Solid Tissue Normal
+TCGA-AB-2908-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2908-11A,Solid Tissue Normal
+TCGA-AB-2909-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2909-11A,Solid Tissue Normal
+TCGA-AB-2910-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2910-11A,Solid Tissue Normal
+TCGA-AB-2911-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2911-11A,Solid Tissue Normal
+TCGA-AB-2912-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2912-11A,Solid Tissue Normal
+TCGA-AB-2913-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2913-11A,Solid Tissue Normal
+TCGA-AB-2914-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2914-11A,Solid Tissue Normal
+TCGA-AB-2915-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2915-11A,Solid Tissue Normal
+TCGA-AB-2916-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2916-11A,Solid Tissue Normal
+TCGA-AB-2917-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2917-11A,Solid Tissue Normal
+TCGA-AB-2918-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2918-11A,Solid Tissue Normal
+TCGA-AB-2919-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2919-11A,Solid Tissue Normal
+TCGA-AB-2920-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2920-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2920-11A,Solid Tissue Normal
+TCGA-AB-2921-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2921-11A,Solid Tissue Normal
+TCGA-AB-2922-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2922-11A,Solid Tissue Normal
+TCGA-AB-2923-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2923-11A,Solid Tissue Normal
+TCGA-AB-2924-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2924-11A,Solid Tissue Normal
+TCGA-AB-2925-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2925-11A,Solid Tissue Normal
+TCGA-AB-2926-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2926-11A,Solid Tissue Normal
+TCGA-AB-2927-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2927-11A,Solid Tissue Normal
+TCGA-AB-2928-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2928-11A,Solid Tissue Normal
+TCGA-AB-2929-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2929-11A,Solid Tissue Normal
+TCGA-AB-2930-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2930-11A,Solid Tissue Normal
+TCGA-AB-2931-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2931-11A,Solid Tissue Normal
+TCGA-AB-2932-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2932-11A,Solid Tissue Normal
+TCGA-AB-2933-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2933-11A,Solid Tissue Normal
+TCGA-AB-2934-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2934-11A,Solid Tissue Normal
+TCGA-AB-2935-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2935-11A,Solid Tissue Normal
+TCGA-AB-2936-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2936-11A,Solid Tissue Normal
+TCGA-AB-2937-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2937-11A,Solid Tissue Normal
+TCGA-AB-2938-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2938-11A,Solid Tissue Normal
+TCGA-AB-2939-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2939-11A,Solid Tissue Normal
+TCGA-AB-2940-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2940-11A,Solid Tissue Normal
+TCGA-AB-2941-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2941-11A,Solid Tissue Normal
+TCGA-AB-2942-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2942-11A,Solid Tissue Normal
+TCGA-AB-2943-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2943-11A,Solid Tissue Normal
+TCGA-AB-2944-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2944-11A,Solid Tissue Normal
+TCGA-AB-2945-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2945-11A,Solid Tissue Normal
+TCGA-AB-2946-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2946-11A,Solid Tissue Normal
+TCGA-AB-2947-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2947-11A,Solid Tissue Normal
+TCGA-AB-2948-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2948-11A,Solid Tissue Normal
+TCGA-AB-2949-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2949-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2949-11A,Solid Tissue Normal
+TCGA-AB-2950-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2950-11A,Solid Tissue Normal
+TCGA-AB-2952-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2952-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2952-11A,Solid Tissue Normal
+TCGA-AB-2954-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2954-11A,Solid Tissue Normal
+TCGA-AB-2955-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2955-11A,Solid Tissue Normal
+TCGA-AB-2956-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2956-11A,Solid Tissue Normal
+TCGA-AB-2957-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2957-11A,Solid Tissue Normal
+TCGA-AB-2959-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2959-11A,Solid Tissue Normal
+TCGA-AB-2963-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2963-11A,Solid Tissue Normal
+TCGA-AB-2964-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2964-11A,Solid Tissue Normal
+TCGA-AB-2965-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2965-11A,Solid Tissue Normal
+TCGA-AB-2966-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2966-11A,Solid Tissue Normal
+TCGA-AB-2967-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2967-11A,Solid Tissue Normal
+TCGA-AB-2968-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2968-11A,Solid Tissue Normal
+TCGA-AB-2969-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2969-11A,Solid Tissue Normal
+TCGA-AB-2970-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2970-11A,Solid Tissue Normal
+TCGA-AB-2971-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2971-11A,Solid Tissue Normal
+TCGA-AB-2972-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2972-11A,Solid Tissue Normal
+TCGA-AB-2973-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2973-11A,Solid Tissue Normal
+TCGA-AB-2974-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2974-11A,Solid Tissue Normal
+TCGA-AB-2975-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2975-11A,Solid Tissue Normal
+TCGA-AB-2976-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2976-11A,Solid Tissue Normal
+TCGA-AB-2977-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2977-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2977-11A,Solid Tissue Normal
+TCGA-AB-2978-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2978-11A,Solid Tissue Normal
+TCGA-AB-2979-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2979-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2979-11A,Solid Tissue Normal
+TCGA-AB-2980-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2980-11A,Solid Tissue Normal
+TCGA-AB-2981-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2981-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2981-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2981-11A,Solid Tissue Normal
+TCGA-AB-2982-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2982-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2982-11A,Solid Tissue Normal
+TCGA-AB-2983-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2983-11A,Solid Tissue Normal
+TCGA-AB-2984-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2984-11A,Solid Tissue Normal
+TCGA-AB-2985-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2985-11A,Solid Tissue Normal
+TCGA-AB-2986-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2986-11A,Solid Tissue Normal
+TCGA-AB-2987-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2987-11A,Solid Tissue Normal
+TCGA-AB-2988-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2988-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2988-03C,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2988-11A,Solid Tissue Normal
+TCGA-AB-2989-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2989-11A,Solid Tissue Normal
+TCGA-AB-2990-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2990-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2990-11A,Solid Tissue Normal
+TCGA-AB-2991-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2991-11A,Solid Tissue Normal
+TCGA-AB-2992-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2992-11A,Solid Tissue Normal
+TCGA-AB-2993-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2993-11A,Solid Tissue Normal
+TCGA-AB-2994-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2994-11A,Solid Tissue Normal
+TCGA-AB-2995-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2995-11A,Solid Tissue Normal
+TCGA-AB-2996-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2996-11A,Solid Tissue Normal
+TCGA-AB-2997-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2997-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2997-11A,Solid Tissue Normal
+TCGA-AB-2998-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2998-11A,Solid Tissue Normal
+TCGA-AB-2999-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2999-03B,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-2999-11A,Solid Tissue Normal
+TCGA-AB-3000-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-3000-11A,Solid Tissue Normal
+TCGA-AB-3001-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-3001-11A,Solid Tissue Normal
+TCGA-AB-3002-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-3002-11A,Solid Tissue Normal
+TCGA-AB-3005-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-3005-11A,Solid Tissue Normal
+TCGA-AB-3006-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-3006-11A,Solid Tissue Normal
+TCGA-AB-3007-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-3007-11A,Solid Tissue Normal
+TCGA-AB-3008-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-3008-11A,Solid Tissue Normal
+TCGA-AB-3009-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-3009-11A,Solid Tissue Normal
+TCGA-AB-3011-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-3011-11A,Solid Tissue Normal
+TCGA-AB-3012-03A,Primary Blood Derived Cancer - Peripheral Blood
+TCGA-AB-3012-11A,Solid Tissue Normal
